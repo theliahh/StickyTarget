@@ -1,0 +1,5 @@
+## Interface: 120100
+## Title: StickyTarget2
+## Description: Toggles sticky targeting when entering/exiting combat. Inspired by StickyTarget by SatPagle
+## Author: Theliahh
+StickyTarget.lua
